@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { NavLink, Outlet, useLocation, useNavigate } from "react-router";
 import {
   Activity, Boxes, ChevronLeft, CircleHelp, Clock3, Columns3, FileSearch, FileText, GitCompareArrows,

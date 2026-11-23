@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Link, useNavigate, useParams } from "react-router";
 import { ArrowLeft, ArrowRight, Building2, Check, Eye, EyeOff, FileUp, FolderPlus, MailCheck, ShieldAlert, Sparkles, UserPlus } from "lucide-react";
 import { Alert, Button } from "../components/ui";

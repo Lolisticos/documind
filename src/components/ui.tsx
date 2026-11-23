@@ -1,4 +1,4 @@
-import type { ReactNode } from "react";
+import React, { type ReactNode } from "react";
 import { X, Search, ChevronRight, MoreHorizontal, FileText, AlertTriangle } from "lucide-react";
 
 export function Button({ children, variant = "primary", icon, onClick, disabled, type = "button", className = "" }: {

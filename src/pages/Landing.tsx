@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Link } from "react-router";
 import { ArrowRight, Check, ChevronDown, FileCheck2, Fingerprint, GitBranch, Menu, Search, ShieldCheck, Sparkles, X } from "lucide-react";
 import { Button } from "../components/ui";

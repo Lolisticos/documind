@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router";
 import {
   Activity, AlertCircle, ArrowLeft, ArrowRight, BarChart3, BookOpen, Box, Calendar, Check, CheckCircle2,
